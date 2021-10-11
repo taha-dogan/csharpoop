@@ -1,0 +1,10 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\bin\Debug\diziparametreliconst.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\bin\Debug\diziparametreliconst.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\bin\Debug\diziparametreliconst.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.csproj.AssemblyReference.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\diziparametreliconst\obj\Debug\diziparametreliconst.pdb

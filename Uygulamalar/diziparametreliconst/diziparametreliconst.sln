@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziparametreliconst", "diziparametreliconst.csproj", "{5CB68E2D-B408-44A3-99A6-217446CEB81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB68E2D-B408-44A3-99A6-217446CEB81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB68E2D-B408-44A3-99A6-217446CEB81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB68E2D-B408-44A3-99A6-217446CEB81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB68E2D-B408-44A3-99A6-217446CEB81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F4F2F3-7B93-4F0E-A718-D42C1922ECE2}
+	EndGlobalSection
+EndGlobal

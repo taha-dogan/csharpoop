@@ -1,0 +1,10 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SinifA.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

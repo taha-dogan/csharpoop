@@ -1,0 +1,10 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\bin\Debug\birdenfazlaconst.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\bin\Debug\birdenfazlaconst.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\bin\Debug\birdenfazlaconst.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.csproj.AssemblyReference.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\birdenfazlaconst\obj\Debug\birdenfazlaconst.pdb
