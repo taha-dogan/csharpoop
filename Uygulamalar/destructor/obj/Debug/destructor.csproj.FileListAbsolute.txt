@@ -1,0 +1,10 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\bin\Debug\destructor.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\bin\Debug\destructor.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\bin\Debug\destructor.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.csproj.AssemblyReference.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\destructor\obj\Debug\destructor.pdb

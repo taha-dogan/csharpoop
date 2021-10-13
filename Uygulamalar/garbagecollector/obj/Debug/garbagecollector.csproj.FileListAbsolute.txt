@@ -1,0 +1,10 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\bin\Debug\garbagecollector.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\bin\Debug\garbagecollector.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\bin\Debug\garbagecollector.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.csproj.AssemblyReference.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\garbagecollector\obj\Debug\garbagecollector.pdb
