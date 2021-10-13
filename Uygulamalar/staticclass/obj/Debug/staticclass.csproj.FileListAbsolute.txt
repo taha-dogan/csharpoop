@@ -1,0 +1,9 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\bin\Debug\staticclass.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\bin\Debug\staticclass.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\bin\Debug\staticclass.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\obj\Debug\staticclass.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\obj\Debug\staticclass.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\obj\Debug\staticclass.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\obj\Debug\staticclass.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\obj\Debug\staticclass.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclass\obj\Debug\staticclass.pdb

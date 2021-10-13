@@ -1,0 +1,9 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\bin\Debug\staticmetodlar.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\bin\Debug\staticmetodlar.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\bin\Debug\staticmetodlar.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\obj\Debug\staticmetodlar.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\obj\Debug\staticmetodlar.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\obj\Debug\staticmetodlar.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\obj\Debug\staticmetodlar.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\obj\Debug\staticmetodlar.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticmetodlar\obj\Debug\staticmetodlar.pdb

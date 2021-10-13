@@ -1,0 +1,10 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\bin\Debug\staticconstructor.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\bin\Debug\staticconstructor.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\bin\Debug\staticconstructor.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.csproj.AssemblyReference.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticconstructor\obj\Debug\staticconstructor.pdb
