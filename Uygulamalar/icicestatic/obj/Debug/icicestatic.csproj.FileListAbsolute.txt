@@ -1,0 +1,9 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\bin\Debug\icicestatic.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\bin\Debug\icicestatic.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\bin\Debug\icicestatic.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\obj\Debug\icicestatic.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\obj\Debug\icicestatic.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\obj\Debug\icicestatic.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\obj\Debug\icicestatic.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\obj\Debug\icicestatic.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\icicestatic\obj\Debug\icicestatic.pdb

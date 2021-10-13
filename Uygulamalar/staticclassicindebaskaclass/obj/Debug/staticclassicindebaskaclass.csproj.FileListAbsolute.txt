@@ -1,0 +1,9 @@
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\bin\Debug\staticclassicindebaskaclass.exe.config
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\bin\Debug\staticclassicindebaskaclass.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\bin\Debug\staticclassicindebaskaclass.pdb
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\obj\Debug\staticclassicindebaskaclass.Form1.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\obj\Debug\staticclassicindebaskaclass.Properties.Resources.resources
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\obj\Debug\staticclassicindebaskaclass.csproj.GenerateResource.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\obj\Debug\staticclassicindebaskaclass.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\obj\Debug\staticclassicindebaskaclass.exe
+C:\Users\tahaslı\Desktop\OOP\Uygulamalar\staticclassicindebaskaclass\obj\Debug\staticclassicindebaskaclass.pdb
