@@ -1,0 +1,10 @@
+C:\Users\tahaslı\source\repos\readonlyproperties\bin\Debug\readonlyproperties.exe.config
+C:\Users\tahaslı\source\repos\readonlyproperties\bin\Debug\readonlyproperties.exe
+C:\Users\tahaslı\source\repos\readonlyproperties\bin\Debug\readonlyproperties.pdb
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.csproj.AssemblyReference.cache
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.Form1.resources
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.Properties.Resources.resources
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.csproj.GenerateResource.cache
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.exe
+C:\Users\tahaslı\source\repos\readonlyproperties\obj\Debug\readonlyproperties.pdb

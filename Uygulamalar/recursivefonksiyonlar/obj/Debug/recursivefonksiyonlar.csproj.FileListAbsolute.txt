@@ -1,0 +1,9 @@
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\bin\Debug\recursivefonksiyonlar.exe.config
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\bin\Debug\recursivefonksiyonlar.exe
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\bin\Debug\recursivefonksiyonlar.pdb
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\obj\Debug\recursivefonksiyonlar.Form1.resources
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\obj\Debug\recursivefonksiyonlar.Properties.Resources.resources
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\obj\Debug\recursivefonksiyonlar.csproj.GenerateResource.cache
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\obj\Debug\recursivefonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\obj\Debug\recursivefonksiyonlar.exe
+C:\Users\tahaslı\source\repos\recursivefonksiyonlar\obj\Debug\recursivefonksiyonlar.pdb

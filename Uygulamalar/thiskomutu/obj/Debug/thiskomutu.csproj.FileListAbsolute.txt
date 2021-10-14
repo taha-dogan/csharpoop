@@ -1,0 +1,9 @@
+C:\Users\tahaslı\source\repos\thiskomutu\bin\Debug\thiskomutu.exe.config
+C:\Users\tahaslı\source\repos\thiskomutu\bin\Debug\thiskomutu.exe
+C:\Users\tahaslı\source\repos\thiskomutu\bin\Debug\thiskomutu.pdb
+C:\Users\tahaslı\source\repos\thiskomutu\obj\Debug\thiskomutu.Form1.resources
+C:\Users\tahaslı\source\repos\thiskomutu\obj\Debug\thiskomutu.Properties.Resources.resources
+C:\Users\tahaslı\source\repos\thiskomutu\obj\Debug\thiskomutu.csproj.GenerateResource.cache
+C:\Users\tahaslı\source\repos\thiskomutu\obj\Debug\thiskomutu.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\source\repos\thiskomutu\obj\Debug\thiskomutu.exe
+C:\Users\tahaslı\source\repos\thiskomutu\obj\Debug\thiskomutu.pdb

@@ -1,0 +1,10 @@
+C:\Users\tahaslı\source\repos\newkomutu\bin\Debug\newkomutu.exe.config
+C:\Users\tahaslı\source\repos\newkomutu\bin\Debug\newkomutu.exe
+C:\Users\tahaslı\source\repos\newkomutu\bin\Debug\newkomutu.pdb
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.csproj.AssemblyReference.cache
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.Form1.resources
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.Properties.Resources.resources
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.csproj.GenerateResource.cache
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.exe
+C:\Users\tahaslı\source\repos\newkomutu\obj\Debug\newkomutu.pdb
