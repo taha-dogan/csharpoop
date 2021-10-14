@@ -1,0 +1,10 @@
+C:\Users\tahaslı\source\repos\writeonlyproperties\bin\Debug\writeonlyproperties.exe.config
+C:\Users\tahaslı\source\repos\writeonlyproperties\bin\Debug\writeonlyproperties.exe
+C:\Users\tahaslı\source\repos\writeonlyproperties\bin\Debug\writeonlyproperties.pdb
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.csproj.AssemblyReference.cache
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.Form1.resources
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.Properties.Resources.resources
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.csproj.GenerateResource.cache
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.exe
+C:\Users\tahaslı\source\repos\writeonlyproperties\obj\Debug\writeonlyproperties.pdb

@@ -1,0 +1,10 @@
+C:\Users\tahaslı\source\repos\setgetproperties\bin\Debug\setgetproperties.exe.config
+C:\Users\tahaslı\source\repos\setgetproperties\bin\Debug\setgetproperties.exe
+C:\Users\tahaslı\source\repos\setgetproperties\bin\Debug\setgetproperties.pdb
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.csproj.AssemblyReference.cache
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.Form1.resources
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.Properties.Resources.resources
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.csproj.GenerateResource.cache
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.csproj.CoreCompileInputs.cache
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.exe
+C:\Users\tahaslı\source\repos\setgetproperties\obj\Debug\setgetproperties.pdb
