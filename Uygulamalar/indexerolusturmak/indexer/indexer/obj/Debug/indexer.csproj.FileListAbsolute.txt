@@ -1,0 +1,10 @@
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.csproj.AssemblyReference.cache
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.Form1.resources
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.Properties.Resources.resources
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.csproj.GenerateResource.cache
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.csproj.CoreCompileInputs.cache
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\bin\Debug\indexer.exe.config
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\bin\Debug\indexer.exe
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\bin\Debug\indexer.pdb
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.exe
+C:\Users\flaky\Desktop\csharpoop-main\Uygulamalar\indexerolusturmak\indexer\indexer\obj\Debug\indexer.pdb
