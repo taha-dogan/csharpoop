@@ -1,0 +1,13 @@
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\bin\Debug\all_inheritance_examples.exe.config
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\bin\Debug\all_inheritance_examples.exe
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\bin\Debug\all_inheritance_examples.pdb
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_examples.csproj.AssemblyReference.cache
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_examples.csproj.SuggestedBindingRedirects.cache
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_inheritance_examples.Form1.resources
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_inheritance_examples.overrideicin.resources
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_inheritance_examples.Properties.Resources.resources
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_examples.csproj.GenerateResource.cache
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_examples.csproj.CoreCompileInputs.cache
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_inheritance_examples.exe
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_inheritance_examples.pdb
+C:\Users\flaky\Desktop\oop\calismalar\all_inheritance_examples\obj\Debug\all_inheritance_examples.abstract2icin.resources
