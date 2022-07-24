@@ -1,0 +1,8 @@
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\obj\Debug\GenericYapilar.csproj.AssemblyReference.cache
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\obj\Debug\GenericYapilar.csproj.SuggestedBindingRedirects.cache
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\obj\Debug\GenericYapilar.csproj.CoreCompileInputs.cache
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\flaky\Desktop\Ders Belgeleri\Staj\Yazılım Geliştirici Yetiştirme Kampı\Kamp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
